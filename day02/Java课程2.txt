@@ -1,0 +1,10 @@
+Eclipse创建Java Project
+jre：可以选择eclipse自带的jre版本，也可以自行配置
+src：存储程序，配置文件，图片.....
+包：创建在src下面，对不同分类的程序进行管理
+包的命名规范：小写，企业的域名倒写，加上工程的概述，再加上模板。
+cn.miHoYo.uitl
+cn.miHoYo.exam.io
+cn.miHoYo.exam.image
+类（现在不需要理解）：存储在包下面
+类的命名规范：首字母大写，可以使用汉字，但是强烈不建议
